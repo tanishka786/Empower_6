@@ -61,6 +61,12 @@ git clone https://github.com/YourUsername/EmpowerHer.git
 baki che$$$$$$
 ```
 
+### 🔍 **Tech stack / Tools used for presentation purposes:**
+---
+For making architecture:https://app.eraser.io
+For making a flowchart:https://www.visily.ai/
+To make use case diagram:https://www.canva.com/
+---
 
 ###  **Created by**
 
@@ -76,6 +82,7 @@ baki che$$$$$$
 ###  **License**
 
    - Distributed under the MIT License.
+
 
 ###  **Further Instructions**
   - BAKII CHE$$$$$$$$$$$$$$$$$$$$$$$
