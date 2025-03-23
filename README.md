@@ -66,6 +66,7 @@ BAKII CHE$$$$$$$$$$$$$$$$$$$$$$$
 - For making architecture: https://app.eraser.io
 - For making a flowchart: https://www.visily.ai/
 - To make use case diagram: https://www.canva.com/
+- for making dashboard and stuff use: https://ui.shadcn.com/
 ---
 
 ###  **Created by**
